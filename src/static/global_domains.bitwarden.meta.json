@@ -1,6 +1,7 @@
 {
   "source": "https://github.com/bitwarden/server",
   "ref": "main",
+  "generatedAt": "2026-11-02T12:31:36.235Z",
   "rulesCount": 22,
   "domainsCount": 186,
   "sourceFiles": [
